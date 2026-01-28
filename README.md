@@ -1,4 +1,4 @@
-# Salut, moi c'est Samuel Spindler ! 👋
+# Bonjour, moi c'est Samuel Spindler ! 👋
 
 ###  Étudiant Ingénieur Réseaux & Télécommunications
 **À la recherche d'un stage de 6 mois**
